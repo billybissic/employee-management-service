@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: lahjeq
+Build-Jdk: 12.0.1
+Implementation-Title: employee-management-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.magnificent.essentials
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/com.magnificen
+ t.essentials.employee-management.service/
+Created-By: Maven Integration for Eclipse
+
